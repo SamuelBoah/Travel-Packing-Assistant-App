@@ -1,3 +1,43 @@
+🧳 Travel Packing Assistant App
+
+A smart travel packing app built with React.js to help users organize and manage essentials for their trips. This interactive app lets users add new items, mark them as packed, sort them by different criteria, and reset the list as needed.
+The app includes a dynamic footer that displays the total number of items added and the percentage of items already packed — providing a clear and helpful overview of your packing progress.
+
+
+✨ Features
+
+✅ Add Items: Quickly add any item you plan to pack.
+
+📦 Mark as Packed: Check off items as you pack them.
+
+🔄Sort Options: Sort the list by:
+•	Packed status
+•	Description
+•	Input order
+
+🧹 Clear List: Reset the list and start over.
+
+📊Progress Footer: Displays:
+•	Total items added
+•	Percentage of packed items
+
+
+🛠️ Built With
+•	React.js – Frontend JavaScript library
+•	HTML/CSS – For styling the components
+
+
+Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/your-username/travel-packing-assistant-app.git
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
