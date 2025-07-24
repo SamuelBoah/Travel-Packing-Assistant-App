@@ -11,19 +11,26 @@ The app includes a dynamic footer that displays the total number of items added 
 📦 Mark as Packed: Check off items as you pack them.
 
 🔄Sort Options: Sort the list by:
+
 •	Packed status
+
 •	Description
+
 •	Input order
 
 🧹 Clear List: Reset the list and start over.
 
 📊Progress Footer: Displays:
+
 •	Total items added
+
 •	Percentage of packed items
 
 
 🛠️ Built With
+
 •	React.js – Frontend JavaScript library
+
 •	HTML/CSS – For styling the components
 
 
